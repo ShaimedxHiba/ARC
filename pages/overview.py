@@ -3,7 +3,7 @@ import streamlit as st
 def show_page():
     # Page title
     st.title("Atlas Recovery Connect")
-    st.image("pic/pic1.jpg", use_column_width=True)  # Replace with your image
+    st.image("pic/pic1.jpeg", use_column_width=True)  # Replace with your image
     
 
     # Introduction
